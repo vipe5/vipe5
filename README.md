@@ -1,4 +1,4 @@
-### Hi there,I'M DEBDULAL-aka[vipe5] 👋
+### HI THERE,I'M DEBDULAL👋
 
 <!--
 **vipe5/vipe5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
