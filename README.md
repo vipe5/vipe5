@@ -29,7 +29,7 @@ An enthusiastic engineering fresher with a B.Tech degree, Proficient in C/C++, P
   <a href= "https://github.com/vipe5">
     <img src="https://img.icons8.com/material-outlined/30/000000/source-code.png"/>
   </a>
-  <a href= "https:https://www.linkedin.com/in/deb-dulal/">
+  <a href= "https://www.linkedin.com/in/deb-dulal/">
     <img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/>
   </a>
   <a href= "https://twitter.com/tallguyjenks">
