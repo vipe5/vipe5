@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me
-i'm a software engineer at [DXC Technology](https://www.dxc.technology/).
+I'm a software engineer at [DXC Technology](https://www.dxc.technology/).
 
-B.Tech graduate,Proficient in C/C++, PYTHON, and SQL. Passionate about implementing and launching new projects.
+An enthusiastic engineering fresher with a B.Tech degree, Proficient in C/C++, PYTHON, and SQL. Passionate about implementing and launching new projects.
 
 ### what i do for fun?
+-Type some thing in lowercase
+
 -Play games
 
--Surf Net
