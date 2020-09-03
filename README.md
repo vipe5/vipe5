@@ -40,6 +40,7 @@ An enthusiastic engineering fresher with a B.Tech degree, Proficient in C/C++, P
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
 
+<!--
 <p align="center">
   <a href= "https://github.com/vipe5">
     <img src="https://img.icons8.com/material-outlined/30/000000/source-code.png"/>
@@ -76,6 +77,7 @@ An enthusiastic engineering fresher with a B.Tech degree, Proficient in C/C++, P
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30px" width="30px" />
   </a>
    -->
+ -->
 </p>
 
 
@@ -83,22 +85,19 @@ An enthusiastic engineering fresher with a B.Tech degree, Proficient in C/C++, P
 
 
 <p align="center">
-  <a href= "https://github.com/vipe5">
-    <img src="https://img.icons8.com/material-outlined/30/000000/source-code.png"height="30" width="30" />
-  </a>
-<a href="https://codepen.io/3212" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="3212" height="30" width="30" /></a>
-<a href="https://dev.to/12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="12" height="30" width="30" /></a>
-<a href="https://twitter.com/021" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="021" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="12" height="30" width="30" /></a>
+
+<a href="https://twitter.com/DebDula99062594" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="021" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/deb-dulal/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="12" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/211" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="211" height="30" width="30" /></a>
-<a href="https://codesandbox.com/12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="12" height="30" width="30" /></a>
-<a href="https://kaggle.com/123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="123" height="30" width="30" /></a>
-<a href="https://fb.com/12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="12" height="30" width="30" /></a>
-<a href="https://instagram.com/323265" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="323265" height="30" width="30" /></a>
-<a href="https://dribbble.com/12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="12" height="30" width="30" /></a>
-<a href="https://www.behance.net/123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="123" height="30" width="30" /></a>
+<a href="https://www.instagram.com/t_h_e___r_e_a_p_e_r/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="323265" height="30" width="30" /></a>
 <a href="https://medium.com/12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="12" height="30" width="30" /></a>
+
+<!--
 <a href="https://www.youtube.com/c/123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="123" height="30" width="30" /></a>
+<a href="https://dev.to/12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="12" height="30" width="30" /></a>
+<a href="https://fb.com/12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="12" height="30" width="30" /></a>
+-->
+
 </p>
 
 
