@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-***About me
+### About me
 i'm a software engineer
-***what i do for fun?
+### what i do for fun?
 playing games
