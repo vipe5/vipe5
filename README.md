@@ -23,7 +23,13 @@ An enthusiastic engineering fresher with a B.Tech degree, Proficient in C/C++, P
 
 
 
-<p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
+<p align="center">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</p>
 
 
 
@@ -57,9 +63,6 @@ An enthusiastic engineering fresher with a B.Tech degree, Proficient in C/C++, P
   <a href="https://orcid.org/0000-0002-9604-3069">
     <img src="https://img.icons8.com/material-outlined/30/000000/camera-addon-identification.png"/>
   </a>
-  
-
- 
   <a href="https://github.com/tallguyjenks/CV/blob/master/CV.pdf">
     <img src="https://img.icons8.com/material-outlined/30/000000/parse-from-clipboard.png"/>
   </a>
@@ -81,7 +84,7 @@ An enthusiastic engineering fresher with a B.Tech degree, Proficient in C/C++, P
 
 <p align="center">
   <a href= "https://github.com/vipe5">
-    <img src="https://img.icons8.com/material-outlined/30/000000/source-code.png"/>
+    <img src="https://img.icons8.com/material-outlined/30/000000/source-code.png"height="30" width="30" />
   </a>
 <a href="https://codepen.io/3212" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="3212" height="30" width="30" /></a>
 <a href="https://dev.to/12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="12" height="30" width="30" /></a>
