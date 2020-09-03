@@ -20,8 +20,5 @@ I'm a software engineer at [DXC Technology](https://www.dxc.technology/).
 
 An enthusiastic engineering fresher with a B.Tech degree, Proficient in C/C++, PYTHON, and SQL. Passionate about implementing and launching new projects.
 
-### what i do for fun?
--Type some thing in lowercase
 
--Play games
 
