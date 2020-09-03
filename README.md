@@ -26,10 +26,10 @@ An enthusiastic engineering fresher with a B.Tech degree, Proficient in C/C++, P
   <i>Take a look at my repositories and let's get in touch!</i>
 
 <p align="center">
-  <a href= "https://github.com/tallguyjenks/">
+  <a href= "https://github.com/vipe5">
     <img src="https://img.icons8.com/material-outlined/30/000000/source-code.png"/>
   </a>
-  <a href= "https://www.linkedin.com/in/bryanjenks/">
+  <a href= "https:https://www.linkedin.com/in/deb-dulal/">
     <img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/>
   </a>
   <a href= "https://twitter.com/tallguyjenks">
