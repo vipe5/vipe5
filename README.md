@@ -32,6 +32,8 @@ An enthusiastic engineering fresher with a B.Tech degree, Proficient in C/C++, P
   <a href= "https://www.linkedin.com/in/deb-dulal/">
     <img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/>
   </a>
+  
+<!-- Social Section -->
   <a href= "https://twitter.com/tallguyjenks">
     <img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/>
   </a>
@@ -47,6 +49,8 @@ An enthusiastic engineering fresher with a B.Tech degree, Proficient in C/C++, P
   <a href="https://orcid.org/0000-0002-9604-3069">
     <img src="https://img.icons8.com/material-outlined/30/000000/camera-addon-identification.png"/>
   </a>
+  
+<!-- Social Section -->
   <a href="https://github.com/tallguyjenks/CV/blob/master/CV.pdf">
     <img src="https://img.icons8.com/material-outlined/30/000000/parse-from-clipboard.png"/>
   </a>
