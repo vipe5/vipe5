@@ -65,3 +65,22 @@ An enthusiastic engineering fresher with a B.Tech degree, Proficient in C/C++, P
   </a>
    -->
 </p>
+
+
+
+
+
+
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asdfgb" alt="asdfgb" /> </p>
+
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asdfgb&layout=compact&hide=html" alt="asdfgb" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asdfgb&show_icons=true" alt="asdfgb" /></p>
+
+<p align="center">
+<a href="https://twitter.com/asdfgh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="asdfgh" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/zxcvgbhj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zxcvgbhj" height="30" width="30" /></a>
+<a href="https://instagram.com/baba5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="baba5" height="30" width="30" /></a>
+</p>
