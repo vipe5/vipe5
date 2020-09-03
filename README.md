@@ -1,6 +1,3 @@
-### HELLO, WORLD.
-I'M DEBDULAL
-
 <!--
 **vipe5/vipe5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### About me
-I'm a software engineer at [DXC Technology](https://www.dxc.technology/).
 
+### Greetings!
+I'M DEBDULAL.
+I'm a software engineer at [DXC Technology](https://www.dxc.technology/).
 An enthusiastic engineering fresher with a B.Tech degree, Proficient in C/C++, PYTHON, and SQL. Passionate about implementing and launching new projects.
 
 
