@@ -21,5 +21,3 @@ i'm a software engineer at [DXC Technology](https://www.dxc.technology/)
 -Play games
 
 -Surf Net
-
-If you'd like to get in touch with me, you can reach me at <debd69995@gmail.com>.
