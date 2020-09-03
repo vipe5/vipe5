@@ -39,6 +39,7 @@ An enthusiastic engineering fresher with a B.Tech degree, Proficient in C/C++, P
 <!-- Social Section -->
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
+</p>
 
 <!--
 <p align="center">
@@ -76,15 +77,15 @@ An enthusiastic engineering fresher with a B.Tech degree, Proficient in C/C++, P
   <a href="https://stackoverflow.com/users/12339658/tallguyjenks">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30px" width="30px" />
   </a>
-   -->
+  
 </p>
+ -->
 
 
 
 
 
 <p align="center">
-
 <a href="https://twitter.com/DebDula99062594" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="021" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/deb-dulal/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="12" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/211" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="211" height="30" width="30" /></a>
