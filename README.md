@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me
-i'm a software engineer at [DXC Technology](https://www.dxc.technology/)
+i'm a software engineer at [DXC Technology](https://www.dxc.technology/).
+Proficient in c/c++, PYTHON, and SQL. Passionate about implementing and launching new projects.
 
 ### what i do for fun?
 -Play games
