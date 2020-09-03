@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me
-i'm a software engineer at [Echobind](https://echobind.com)
-If you'd like to get in touch with me, you can reach me at <nick@dayhaysoos.com>.
+i'm a software engineer at [DXC Technology](https://www.dxc.technology/)
+
+If you'd like to get in touch with me, you can reach me at <debd69995@gmail.com>.
 ### what i do for fun?
 playing games
