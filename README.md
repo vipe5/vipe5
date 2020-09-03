@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 ### About me
 i'm a software engineer at [DXC Technology](https://www.dxc.technology/)
 
-If you'd like to get in touch with me, you can reach me at <debd69995@gmail.com>.
 ### what i do for fun?
-playing games
+--Play games
+--Surf Net
+
+If you'd like to get in touch with me, you can reach me at <debd69995@gmail.com>.
