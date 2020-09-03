@@ -50,7 +50,7 @@ An enthusiastic engineering fresher with a B.Tech degree, Proficient in C/C++, P
     <img src="https://img.icons8.com/material-outlined/30/000000/camera-addon-identification.png"/>
   </a>
   
- -->
+
  
   <a href="https://github.com/tallguyjenks/CV/blob/master/CV.pdf">
     <img src="https://img.icons8.com/material-outlined/30/000000/parse-from-clipboard.png"/>
@@ -64,5 +64,5 @@ An enthusiastic engineering fresher with a B.Tech degree, Proficient in C/C++, P
   <a href="https://stackoverflow.com/users/12339658/tallguyjenks">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30px" width="30px" />
   </a>
-  
+   -->
 </p>
