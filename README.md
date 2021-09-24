@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Greeting
+### Greetings!!
 
 An enthusiastic engineering fresher with a B.Tech degree, Proficient in C/C++, PYTHON, and SQL. Passionate about implementing and launching new projects.
 
