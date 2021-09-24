@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Greetings!
-I'M DEBDULAL.
-I'm a software engineer at [DXC Technology](https://www.dxc.technology/).
+### Greeting
 
 An enthusiastic engineering fresher with a B.Tech degree, Proficient in C/C++, PYTHON, and SQL. Passionate about implementing and launching new projects.
 
