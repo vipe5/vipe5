@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Greetings!!
 
--An enthusiastic engineering fresher with a B.Tech degree, Proficient in C++, and SQL. Passionate about implementing and launching new projects.
+<!--An enthusiastic engineering fresher with a B.Tech degree, Proficient in C++, and SQL. Passionate about implementing and launching new projects.>
 
 <!-- Social Section -->
 <p align="center">
