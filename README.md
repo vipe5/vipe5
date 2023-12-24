@@ -28,9 +28,6 @@ An enthusiastic engineering fresher with a B.Tech degree, Proficient in C++, and
   <a href="https://www.linkedin.com/in/deb-dulal/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="12" height="30" width="30" />
   </a>
-  <a href="https://stackoverflow.com/users/14216010/vipe5?tab=profile" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="211" height="30" width="30" />
-  </a>
   <a href="https://www.instagram.com/t_h_e___r_e_a_p_e_r/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="323265" height="30" width="30" />
   </a>
